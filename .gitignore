@@ -1,0 +1,19 @@
+# testing
+*.test
+*.tmp
+
+# production
+/build
+
+# binaries
+*.dll
+*.dylib
+*.exe
+*.exe~
+*.so
+
+# editors
+*.swp
+.idea/
+.vs/
+.vscode/
